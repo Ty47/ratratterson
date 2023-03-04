@@ -20,12 +20,16 @@
     }
     img{
         border-style: ridge;
+        text-align: center;
+        margin: auto;
+        display: block;
     }
     h1{
         color: #2E3840;
         font-style: oblique;
         font-weight: bold;
         font-family: fantasy;
+        text-align: center;
        
     }
     h3{
@@ -33,5 +37,17 @@
         font-style: oblique;
         font-weight: bold;
         font-family: fantasy;
+        text-align: center;
         
+    }
+    ul{
+        list-style-type: none;
+        text-align: center;
+    }
+    ol{
+        list-style-type: none;
+        text-align: center;
+    }
+    p{
+        text-align: center;
     }
